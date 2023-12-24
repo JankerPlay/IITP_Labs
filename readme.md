@@ -5,4 +5,4 @@
  
  Желаем вам успехов в учебе и надеемся, что этот репозиторий станет полезным инструментом на вашем студенческом пути. Удачи!
 - [Janker](https://github.com/JankerPlay/BSUIR_Labs/tree/main)
-- [G_alex](https://github.com/mi-g-alex/Labs-1)
+- [G_Alex](https://github.com/mi-g-alex/Labs-1)
