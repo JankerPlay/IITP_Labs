@@ -8,3 +8,4 @@
 - [G_Alex](https://github.com/mi-g-alex/G_Alex-IiTP-Labs)
 - [Georga](https://github.com/georga399/BSUIRLabs)
 - [Alkogolek228](https://github.com/Alkogolek228)
+- [petrzhal](https://github.com/petrzhal/bsuir_labs)
