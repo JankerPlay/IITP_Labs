@@ -7,3 +7,4 @@
 - [Janker](https://github.com/JankerPlay/BSUIR_Labs/tree/main)
 - [G_Alex](https://github.com/mi-g-alex/G_Alex-IiTP-Labs)
 - [Georga](https://github.com/georga399/BSUIRLabs)
+- [Alkogolek228](https://github.com/Alkogolek228)
